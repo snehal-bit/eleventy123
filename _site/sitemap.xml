@@ -2,16 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://example.com/blog/firstpost/</loc>
-		<lastmod>2018-05-01</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/blog/secondpost/</loc>
-		<lastmod>2018-07-04</lastmod>
-	</url>
-	
-	<url>
 		<loc>https://example.com/blog/thirdpost/</loc>
 		<lastmod>2018-08-24</lastmod>
 	</url>
@@ -37,22 +27,22 @@
 	</url>
 	
 	<url>
+		<loc>https://example.com/blog/firstpost/</loc>
+		<lastmod>2023-09-09</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/blog/secondpost/</loc>
+		<lastmod>2023-09-09</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://example.com/</loc>
 		<lastmod>2023-09-09</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/tags/</loc>
-		<lastmod>2023-09-09</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/tags/another-tag/</loc>
-		<lastmod>2023-09-09</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/tags/number-2/</loc>
 		<lastmod>2023-09-09</lastmod>
 	</url>
 	
